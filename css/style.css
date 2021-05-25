@@ -53,14 +53,14 @@ div {
     object-fit: 
 }
 
-div {
+/*div {
     display: inline-block;
 }
 
 div {
     display: block;
 }
-
+*/
 .button{
     background-color: #FB0568;
     color: pink;
